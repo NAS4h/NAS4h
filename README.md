@@ -18,3 +18,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nas4h&show_icons=true&locale=en" alt="nas4h" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nas4h&" alt="nas4h" /></p>
+
+<h3 align="ceter">My name is Hasan Öngün, and I was born on April 21, 2008, in Istanbul, Turkey, where I have spent most of my life. From an early age, I developed a passion for music, and I've been playing the violin since the second grade. Over the years, this passion has grown alongside my interests in information technology and table tennis, shaping who I am today.
+
+My academic journey has been enriched by numerous programs and extracurricular activities, where I've had the chance to explore and develop my talents in music, technology, and sports.
+
+I am proficient in English at a B1 level and have basic skills in French and German. My abilities span across multiple fields; I am an avid violinist, a tech enthusiast with skills in software development and digital design, and a dedicated athlete with a particular love for table tennis. My participation in the Bilsem Special Talent Development Program and Deneyap Technology Workshops allowed me to complete a variety of courses and projects that have significantly contributed to my growth.
+
+Throughout my journey, I have received several awards and certifications that highlight my dedication to both my artistic and technological pursuits. One of my proudest achievements was earning third place in the eTwinning Stem to Astronomy Project and being part of a team that secured second place in Teknofest's International Social Innovation Category with our ATSS (Smart Agriculture and Greenhouse System) project. I’ve also participated in various other STEM competitions, including robotics, coding, and AI, which have further fueled my desire to innovate and create.
+
+Music has always been a vital part of my life. I have performed in numerous concerts, showcasing my violin skills at events hosted by Bilsem, and other cultural venues. These experiences have not only strengthened my love for music but also taught me the value of perseverance and dedication.
+
+In addition to music and technology, I have a strong passion for sports, particularly table tennis, where I’ve competed in several tournaments and achieved notable placements, such as third place in the Sancaktepe Youth and Sports Directorate Table Tennis Tournament.
+
+As I continue to grow and learn, I am committed to expanding my skills and making meaningful contributions through my diverse interests. I believe that my journey is just beginning, and I am excited about the opportunities that lie ahead. I look forward to exploring new challenges in music, technology, and beyond, while staying true to my passions and striving to make a positive impact in whatever I pursue.</h3>
