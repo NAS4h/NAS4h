@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nas4h&" alt="nas4h" /></p>
 
-<h4 align="ceter">My name is Hasan Öngün, and I was born on April 21, 2008, in Istanbul, Turkey, where I have spent most of my life. From an early age, I developed a passion for music, and I've been playing the violin since the second grade. Over the years, this passion has grown alongside my interests in information technology and table tennis, shaping who I am today.
+<h4 align="ceter">My name is Hasan Öngün, and I was born on April, 2008, in Istanbul, Turkey, where I have spent most of my life. From an early age, I developed a passion for music, and I've been playing the violin since the second grade. Over the years, this passion has grown alongside my interests in information technology and table tennis, shaping who I am today.
 
 My academic journey has been enriched by numerous programs and extracurricular activities, where I've had the chance to explore and develop my talents in music, technology, and sports.
 
