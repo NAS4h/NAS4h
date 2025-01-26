@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hasan Öngün</h1>
+<h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate backend and WEB3 developer from Türkiye</h3>
 
 - 💬 Ask me about **Artifical Intellegance**
