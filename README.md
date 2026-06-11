@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Hasan</h1>
 <h3 align="center">A passionate pc geek from Türkiye</h3>
 
-- 💬 Ask me about **Artifical Intellegance**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nas4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NAS4h" height="30" width="40" /></a>
