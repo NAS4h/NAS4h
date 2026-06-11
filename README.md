@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate backend and WEB3 developer from Türkiye</h3>
+<h1 align="center">Hi, I'm Hasan</h1>
+<h3 align="center">A passionate pc geek from Türkiye</h3>
 
 - 💬 Ask me about **Artifical Intellegance**
 
